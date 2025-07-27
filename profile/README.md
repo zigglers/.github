@@ -86,9 +86,9 @@ Join our growing community of developers who are reimagining what's possible wit
 
 ## 📬 Get in Touch
 
-- 🐦 Twitter: [@ziggler_dev](https://twitter.com/ziggler_dev)
-- 📧 Email: dev@ziggler.dev
-- 💼 Website: [ziggler.dev](https://ziggler.dev)
+- 🐦 Twitter: [@ziggledev](https://twitter.com/ziggledev)
+- 📧 Email: james@ziggler.dev
+- 💼 Website: [ziggle.dev](https://ziggle.dev)
 
 ---
 
